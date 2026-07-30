@@ -131,5 +131,3 @@ Study
 <img width="1700" height="2338" alt="Scan_20260729 (65)" src="https://github.com/user-attachments/assets/2908b66f-3699-4ce5-a54b-5b2d36eded39" />
 
 <img width="1700" height="2338" alt="Scan_20260729 (66)" src="https://github.com/user-attachments/assets/ef27ec3a-fe7b-44b7-b792-1238f061a6d9" />
-
-<img width="1700" height="2338" alt="Scan_20260729" src="https://github.com/user-attachments/assets/cdf09ff8-78dd-4434-a9bd-a2dcfec86290" />
