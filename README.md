@@ -1,4 +1,4 @@
-Strengthening knowledge in quantitative finance through theory and implementation. Topics include martingales, Value at Risk (VaR), and Unilateral Credit Valuation Adjustment (UCVA), with code examples in Python and MATLAB.
+Strengthening knowledge in quantitative finance through theory and implementation. Topics include Martingales, Value at Risk (VaR), Unilateral Credit Valuation Adjustment (UCVA), Swaptions on Hull-White Tree with code examples in Python and MATLAB.
 
 <img width="1700" height="2338" alt="Scan_20260729" src="https://github.com/user-attachments/assets/8afe94c9-34dd-4c07-8732-1f15bd9f32d0" />
 
