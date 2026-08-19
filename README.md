@@ -153,3 +153,15 @@ Strengthening knowledge in quantitative finance through theory and implementatio
 <img width="1700" height="2338" alt="Scan_20260809" src="https://github.com/user-attachments/assets/a1bfe2ed-55aa-4280-bc78-198fb29f4d59" />
 
 <img width="1700" height="2338" alt="Scan_20260812" src="https://github.com/user-attachments/assets/7e147c67-23b4-4fb3-8099-351978ebe0b7" />
+
+<img width="1700" height="2338" alt="Scan_20260819 (6)" src="https://github.com/user-attachments/assets/271ffbea-d13e-43bb-b962-4229e8e55b38" />
+
+<img width="1700" height="2338" alt="Scan_20260819" src="https://github.com/user-attachments/assets/5af373fe-86a6-4cac-92be-dfc1852206b6" />
+
+<img width="1700" height="2338" alt="Scan_20260819 (2)" src="https://github.com/user-attachments/assets/d0d0bbaf-c451-43e4-8ce2-221d04477fea" />
+
+<img width="1700" height="2338" alt="Scan_20260819 (3)" src="https://github.com/user-attachments/assets/cf8d0b44-7a11-45ec-b6db-2e492c43deee" />
+
+<img width="1700" height="2338" alt="Scan_20260819 (4)" src="https://github.com/user-attachments/assets/b49f69a1-2ded-452a-b14c-d975762f7e70" />
+
+<img width="1700" height="2338" alt="Scan_20260819 (5)" src="https://github.com/user-attachments/assets/312f8565-444a-4e9c-a8de-c39daae5367a" />
