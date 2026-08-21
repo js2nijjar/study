@@ -177,3 +177,5 @@ Strengthening knowledge in quantitative finance through theory and implementatio
 <img width="1700" height="2338" alt="Scan_20260821 (2)" src="https://github.com/user-attachments/assets/ef103d83-44fc-408b-a325-c301e94f5ca2" />
 
 <img width="1700" height="2338" alt="Scan_20260821 (3)" src="https://github.com/user-attachments/assets/3f26421d-66e5-4bc0-977b-b97bcd5d267d" />
+
+<img width="1700" height="2338" alt="Scan_20260821 (4)" src="https://github.com/user-attachments/assets/ded4679e-6821-4c61-bbc0-a4908bb42cb0" />
