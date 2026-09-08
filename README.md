@@ -184,3 +184,29 @@ Strengthening knowledge in quantitative finance through theory and implementatio
 <img width="1700" height="2338" alt="Scan_20260821 (4)" src="https://github.com/user-attachments/assets/ded4679e-6821-4c61-bbc0-a4908bb42cb0" />
 
 <img width="1700" height="2338" alt="Scan_20260825" src="https://github.com/user-attachments/assets/99916b87-fe8d-4120-9610-6cff71879673" />
+
+<img width="1700" height="2338" alt="Scan_20260908" src="https://github.com/user-attachments/assets/5040ae9a-06dd-4df2-a4b1-d54235f5ef13" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (2)" src="https://github.com/user-attachments/assets/88b44ec6-0f94-4fcf-8e25-9f4e33fae608" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (3)" src="https://github.com/user-attachments/assets/3819dd50-4d1a-47e3-bd29-40e2ec611cb5" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (4)" src="https://github.com/user-attachments/assets/b9c07275-e61d-4481-9842-e68cac2029a7" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (5)" src="https://github.com/user-attachments/assets/891bfbf8-8fe4-40e3-9f95-dce12d00c250" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (6)" src="https://github.com/user-attachments/assets/976f3dca-434e-4fc7-a38d-bbad6546179b" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (7)" src="https://github.com/user-attachments/assets/9bcff232-2f27-4ef9-9fed-695cf87c840b" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (8)" src="https://github.com/user-attachments/assets/8a88d9be-265c-45af-acb8-1b7196218fba" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (9)" src="https://github.com/user-attachments/assets/291b4306-b872-4d06-ae69-0393ee0e6a60" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (10)" src="https://github.com/user-attachments/assets/e4f85549-04c9-435c-b549-7638b7d4528f" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (11)" src="https://github.com/user-attachments/assets/ab245269-af39-4afa-a145-745e0168bf2a" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (12)" src="https://github.com/user-attachments/assets/399eb9ff-f85b-44cb-ad0a-ba28018c7d6d" />
+
+<img width="1700" height="2338" alt="Scan_20260908 (13)" src="https://github.com/user-attachments/assets/4808385f-2bd0-4a32-bd11-e31ee7a04dd8" />
